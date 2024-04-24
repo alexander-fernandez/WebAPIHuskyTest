@@ -1,0 +1,6 @@
+@WebAPIHuskyTest_HostAddress = http://localhost:5167
+
+GET {{WebAPIHuskyTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
